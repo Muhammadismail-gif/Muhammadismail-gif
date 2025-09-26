@@ -1,70 +1,64 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbKdQQb4j4s/giphy.gif" width="100"/>
-</div>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Muhammad Ismail</h1>
+<h3 align="center">A Passionate Frontend Developer | Student at Sarhad University | Learning Data Science</h3>
 
-# 👋 Hey there! I'm [Your Name]
-
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile views"/>
-
-### 🚀 **A little about me:**
-
-- 💡 I'm a passionate **[Your Main Role/Stack, e.g., Full-Stack Developer | Data Scientist]** focused on building elegant, performant, and user-friendly applications.
-- 💻 Currently diving deep into **[Your Current Focus, e.g., TypeScript and Serverless Architecture]**.
-- 🌱 Always learning and exploring **[A new tech or concept, e.g., Rust and WebAssembly]**.
-- 🤝 Looking to collaborate on **[Type of Projects, e.g., Open-source tools or impactful AI/ML projects]**.
-- 🌐 Check out my personal site: **[Your Website Link]**
-- 📫 Reach me at **[Your Email]**
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Web+Designer;Data+Science+Learner;Open+to+Collaboration" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,python,go,nestjs" /> |
-| **Database/Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,docker" /> |
-| **Tools/Other** | <img src="https://skillicons.dev/icons?i=git,github,vscode,jest" /> |
+<!-- About Me -->
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **React, Data Science & Web Development**
+- 🎯 Goal: To become a **Full Stack Developer** and build impactful projects  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, C++, SQL**  
+- ⚡ Fun fact: I love **learning & sharing knowledge**  
 
 ---
 
-## 🔥 **My GitHub Stats**
-
-<div align="center">
-  
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" style="margin: 10px;" />
-  </a>
-  
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&background=00000000&stroke=000000&ring=ff7700&fire=ff7700&currstreak=4e93f3&sideNums=4e93f3&sideLabels=4e93f3&dates=ffffff&hide_border=true" alt="Your GitHub Streak" style="margin: 10px;" />
-  </a>
-  
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=dark" alt="Top Languages" style="margin: 10px;" />
-  </a>
-  
-</div>
+<!-- Skills -->
+### 🚀 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,python,git,github,mysql,vscode" />
+</p>
 
 ---
 
-## ✍️ **Latest Blog Posts & Activity**
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true" alt="Your Activity Graph" />
+---
 
-<br>
+<!-- Projects -->
+### 🔥 Featured Projects
+- 🚀 [My Portfolio](#)  
+- 📊 [Data Science Dashboards](#)  
+- 🌐 [React Components Showcase](#)  
 
-<div align="center">
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/YourLinkedInHandle">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/YourStackOverflowID">
-    <img src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-</div>
+---
 
-<br>
-<p align="center">Thanks for stopping by! Let's connect and build something amazing. :zap:</p>
+<!-- Connect -->
+### 🌍 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">💙 Thank you for visiting my profile! Feel free to check out my repositories and give a ⭐ if you like my work.</p>
