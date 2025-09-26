@@ -1,3 +1,4 @@
+![logo](https://github.com/Muhammadismail-gif/Muhammadismail-gif/blob/main/Blue%20and%20White%20Futuristic%20AI%20Technology%20Banner.png)
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Muhammad Ismail</h1>
 <h3 align="center">A Passionate Frontend Developer | Student at Sarhad University | Learning Data Science</h3>
@@ -30,15 +31,22 @@
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
+
+<div align="center">
+  
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&background=00000000&stroke=000000&ring=ff7700&fire=ff7700&currstreak=4e93f3&sideNums=4e93f3&sideLabels=4e93f3&dates=ffffff&hide_border=true" alt="Your GitHub Streak" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=dark" alt="Top Languages" style="margin: 10px;" />
+  </a>
+  
+</div>
 
 ---
 
