@@ -24,7 +24,39 @@
 <!-- Skills -->
 ### 🚀 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,python,git,github,mysql,vscode" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://docs.github.com/en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
 
 ---
