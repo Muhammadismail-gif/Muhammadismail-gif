@@ -93,9 +93,9 @@
 <!-- Connect -->
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="in/ muhammad-ismail-4b0960335" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:mi.ismail000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Muhammadismail-gif"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
