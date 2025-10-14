@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammadismail-gif/Muhammadismail-gif/blob/main/Blue%20and%20White%20Futuristic%20AI%20Technology%20Banner.png)
+![logo]()
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Muhammad Ismail</h1>
 <h3 align="center">A Passionate Frontend Developer | Student at Sarhad University | Learning Data Science</h3>
@@ -87,9 +87,9 @@ I'm a **Frontend Developer** who loves building clean, modern, and responsive we
 
 </br>
   
-  <a href="https://github.com/Muhammadismail-gif">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadismail-gif&theme=dark&background=00000000&stroke=000000&ring=ff7700&fire=ff7700&currstreak=4e93f3&sideNums=4e93f3&sideLabels=4e93f3&dates=ffffff&hide_border=true" alt="Your GitHub Streak" style="margin: 10px;" />
-  </a>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadismail-gif&theme=tokyonight" alt="streak"/>
+</p>
 
 </br>
   
