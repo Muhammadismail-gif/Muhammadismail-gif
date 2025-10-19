@@ -87,9 +87,7 @@ I'm a **Frontend Developer** who loves building clean, modern, and responsive we
 
 </br>
   
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadismail-gif&theme=tokyonight" alt="streak"/>
-</p>
+ 
 
 </br>
   
