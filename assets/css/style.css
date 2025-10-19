@@ -212,6 +212,7 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image img {
+  height: 50%;
   width: 70%;
   margin-left: 6rem;
   border-radius: 50%;
