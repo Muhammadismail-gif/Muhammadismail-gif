@@ -363,7 +363,7 @@ header .navbar ul li a:hover {
 
 /* about section starts */
 .about {
-  background: rgb(255, 255, 255);
+  background: #bfc5d4;
 }
 .about .row {
   display: flex;
@@ -550,7 +550,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: #bfc5d4;
   min-height: 80vh;
 }
 .education .qoute {
